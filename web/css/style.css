@@ -1,0 +1,28 @@
+body{
+    background-color: #3f3d44;
+}
+.container-fluid {
+    height: 1000px;
+}
+
+.mostrar-palabras{
+    list-style: none;
+    border:  10px solid #fff;
+    border-style: double;
+    min-height: 200px;
+}
+
+.contenido-proceso{
+     list-style: none;
+    border:  10px solid #fff;
+    border-style: double;
+    min-height: 200px;
+}
+
+.clase-li{
+    color: #fff;
+}
+
+.plus-icon:hover{
+    cursor: pointer ;
+}
